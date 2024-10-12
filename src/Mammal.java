@@ -1,4 +1,8 @@
-package PACKAGE_NAME;
+public class Mammal extends Animal {
 
-public class Mammiferi {
+    public Mammal(boolean zampe) {
+        super(zampe);
+    }
+
+
 }

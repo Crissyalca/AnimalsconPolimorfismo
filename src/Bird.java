@@ -1,4 +1,2 @@
-package PACKAGE_NAME;
-
-public class Uccelli {
+public class Bird {
 }
